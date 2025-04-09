@@ -64,8 +64,8 @@ The game dynamically randomizes puzzles and conditions in advanced mode to keep 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/beingphoenix/triad-defender.git
-   cd triad-defender
+   git clone https://github.com/BeingPhoenix/CIA-game.git
+   cd CIA-game
    ```
 
 2. **Prepare the Assets:**
