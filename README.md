@@ -4,7 +4,7 @@ Below is an engaging README file in Markdown format for your GitHub repository. 
 
 # Triad Defender: The Phoenix Chronicles
 
-![Banner](assets/banner.txt)
+![Banner](cia_game_for_fun/assets/banner.txt)
 
 **Triad Defender: The Phoenix Chronicles** is an immersive, interactive terminal game developed for Kali Linux that challenges you to defend your digital fortress using the core principles of the CIA Triad—**Confidentiality, Integrity, and Availability**.
 
